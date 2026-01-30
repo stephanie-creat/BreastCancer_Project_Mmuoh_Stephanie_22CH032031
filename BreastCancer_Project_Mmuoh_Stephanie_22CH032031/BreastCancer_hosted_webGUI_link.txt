@@ -2,5 +2,6 @@ Name: Mmuoh Stephanie
 Matric Number: 22CH032031
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://breastcancer-project-obisesan.onrender.com
-GitHub Repository Link: https://github.com/Anjola10/BreastCancer_Project_Obisesan_Anjolaoluwa_22CH032040.git
+Live URL:https://breastcancer-project-mmuoh-stephanie.onrender.com
+GitHub Repository Link: https://github.com/stephanie-creat/BreastCancer_Project_Mmuoh_Stephanie_22CH032031.git
+
